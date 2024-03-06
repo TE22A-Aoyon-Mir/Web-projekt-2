@@ -25,13 +25,13 @@ img{
         grid-column: 1/3;
     }
     .gong-bao{
-        margin-bottom: 34px;
+        margin-bottom: 58px;
     }
     .mapo-doufo{
-        margin-bottom: 17px;
+        margin-bottom: 22px;
     }
     .char-siu{
-        margin-bottom: 39px;
+        margin-bottom: 48px;
     }
     footer{
         grid-column: 1/3;
@@ -50,16 +50,16 @@ img{
         grid-column: 1/4;
     }
     .gong-bao{
-        margin-bottom: 37px;
+        margin-bottom: 60px;
     }
     .bulgogi{
-        margin-top: 34px;
+        margin-top: 46px;
     }
     .mapo-doufo{
-        margin-bottom: 37px;
+        margin-bottom: 72px;
     }
     .char-siu{
-        margin-bottom: 39px;
+        margin-bottom: 74px;
     }
     footer{
         grid-column: 1/4;
